@@ -19,7 +19,8 @@ I'm a versatile programmer with a passion for creating solutions across multiple
 
   ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ans-A&theme=vue)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ans-A&theme=dark)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ans-A)
+
 
   ![A. Ansari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ans-A&show_icons=true&theme=radical)
 
