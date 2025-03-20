@@ -29,14 +29,14 @@ I'm a versatile programmer with a passion for creating solutions across multiple
 
 Here are some of my projects that I noodle on occasionaly:
 
-- **Dashi**: A simple, Kanban-inspired board designed to help organize daily tasks. Currently in the early stages of development and under active progress.[GitHub Repository](https://github.com/Ans-A/dashi).
+- **Dashi**: A simple, Kanban-inspired board designed to help organize daily tasks. Currently in the early stages of development and under active progress.[GitHub Repository](https://github.com/Ans-A/dashi)
 
-- **monkeyGo**: A toy interpreter written in Go, based on the book by Thorsten Ball. This is still in progress! [GitHub Repository](https://github.com/Ans-A/monkeyGo).
+- **monkeyGo**: A toy interpreter written in Go, based on the book by Thorsten Ball. This is still in progress! [GitHub Repository](https://github.com/Ans-A/monkeyGo)
 
-- **Lightmaker**: A Python-based application designed that generates a lightmap from baking an ambient occlusion and a shadow map of an object and then mixing those together with a normal mix using numpy for speed.. [GitHub Repository](https://github.com/Ans-A/lightmaker).
+- **Lightmaker**: A Python-based application designed that generates a lightmap from baking an ambient occlusion and a shadow map of an object and then mixing those together with a normal mix using numpy for speed.. [GitHub Repository](https://github.com/Ans-A/lightmaker)
 
 - **Turntabler**: This is a little blender addon I've created to automate my asset creation turntable process. This should ideally be a nodal setup but that one is still a work in progress. 
-This is still heavily buggy and still has some performance issues..  [GitHub Repositor](https://github.com/Ans-A/Turntabler).
+This is still heavily buggy and still has some performance issues..  [GitHub Repository](https://github.com/Ans-A/Turntabler)
 
 
 - **Loggy**: Loggy is a simple log analysis utility suite to handle log text files. [GitHub Repository](https://github.com/Ans-A/Loggy)
