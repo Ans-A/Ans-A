@@ -9,7 +9,7 @@ I'm a versatile programmer with a passion for creating solutions across multiple
 ## 🛠️ Skills
 
 
-- **Programming Languages:** C, C++, Python, Java, Go, Javascript/CSS/HTML
+- **Programming Languages:** C, C++, Python
 - **Version Control:** Git, GitHub, GitKraken
 - **3D Modeling & Sculpting:** Blender, ZBrush
 - **Animation & VFX Pipelines:** Autodesk Maya, Houdini
