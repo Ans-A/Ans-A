@@ -1,6 +1,6 @@
 # Hi there, I'm A. Ansari 👋
 
-![Profile Views](https://komarev.com/ghpvc/?Ans-A&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Ans-A)
 
 ## 🚀 About Me
 
