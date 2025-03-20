@@ -17,7 +17,8 @@ I'm a versatile programmer with a passion for creating solutions across multiple
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+  ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ans-A&theme=vue)
+
 
 ## 🛠️ Notable Projects
 
